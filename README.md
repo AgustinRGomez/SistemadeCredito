@@ -1,1 +1,1 @@
-# SistemadeCr-dito
+# SistemadeCredito
